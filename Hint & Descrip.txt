@@ -1,0 +1,121 @@
+01
+Name: C2link
+Category: Forensics 
+Value: 100
+Description:
+Author: P4thF!nd3r 🏯🔴
+
+Flag format: kn1ght{}
+
+=========================================================
+
+02
+Name: Suspicious archive
+Category: Forensics 
+Value:	100
+Description: Someone at the "THSC2025" uploaded a  team photo... but rumors say there's more behind that smiley face than meets the eye.
+
+Can you dig deep enough to uncover the real secret? 
+
+Hint:
+ Not all secrets are in plain sight.  
+ Sometimes you have to play a little game of  “hideAndSeek”
+ Name of conference
+
+Flag format: kn1ght{}
+
+=========================================================
+
+
+03
+Name: loLLipop	
+Category: OSINT
+Value: 25
+Description: Sweet things leave sticky traces. Maybe someone dropped a pin you can trace…
+
+Someone posted a blurry image with embedded metadata, and all we got was a strange name: loLLipop.
+Your task is to trace it back to its origin using publicly available information.
+
+Author: Th3_Se3k3r🏯🔴e
+=========================================================
+
+04
+Name: Ghost of the street	
+Category: OSINT
+Value: 50
+Description: Use google maps and backdate.
+Author: P4thF!nd3r 🏯🔴
+
+Flag format: kn1ght{}
+=========================================================
+
+05
+Name: Òrúnmìlà
+
+Category:  Rev-Eng
+
+Value:	50
+
+Difficulty: Easy
+
+Description: Òrúnmìlà, the keeper of divine knowledge, has left behind a cryptic Python artifact.
+Only those wise enough to understand the structure of the code will unlock the sacred flag.
+
+Can you channel his wisdom to uncover the truth hidden inside?
+
+Author: Th3_Se3k3r🏯🔴
+
+Flag format: kn1ght{}
+
+=========================================================
+06
+Name: Bayajidda
+Category: Cryptography
+Value: 25
+Description: A secret message was intercepted coded in a basic but clever script, just like the tales of the legendary Bayajidda. Can you channel his cunning to crack the cipher and uncover the hidden flag?
+
+Author: 4th3n4🏯🔴
+
+Flag format: kn1ght{}
+
+=========================================================
+
+07
+Name: Ezenwayi
+Category: Network Forensics | Steg
+Value: 50 Points 	
+Description: Our digital priestess, Ezenwayi, once whispered ancient secrets through the network — but only the observant will catch them.
+
+Your task is to capture the message hidden deep within the ritual file.
+
+Author:  T1$hb1t3 🏯🔴
+
+Flag format: kn1ght{}
+=========================================================
+
+
+08
+Name: ShinobiScroll
+Category: Network Forensics / Steg
+Value:	50
+Description: A ninja hides not just the blade, but the sheath. Decode the scroll, name the container, and the gate shall open
+
+Author:Th3_Se3k3r🏯🔴
+
+Flag format: kn1ght{}
+
+=========================================================
+
+09
+Name: K4K4NF0
+Category: WEB
+Value: 100
+Description & Hint: 
+Break into the ninja login portal and retrieve the Dual encrypted key use the credential to find your way in the F should no be use in when you check in
+user: admin
+pass: letmein
+
+Author:Th3_Se3k3r🏯🔴
+
+Flag format: kn1ght{}
+
